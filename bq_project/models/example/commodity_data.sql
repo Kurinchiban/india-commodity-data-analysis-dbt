@@ -1,0 +1,1 @@
+SELECT * FROM `my-first-pipeline-453507.india_commodity_data.commodity`
